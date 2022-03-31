@@ -4,6 +4,11 @@
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=AliM-01&theme=github)
 
 
+<a href="https://github.com/AliM-01" style="width: 100%">
+  <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliM-01&theme=material-palenight" alt="Ali's Github Steak" />
+  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=AliM-01&show_icons=true&include_all_commits=true&theme=material-palenight" />
+</a>
+
 <hr />
 
 **Currently working with:**
@@ -37,16 +42,4 @@
 <a href="#"><img width="48px" heigth="48px" src="icons/jquery.png" /></a>
 <a href="#"><img width="48px" heigth="48px" src="icons/mssql.png" /></a>
 
-
-
-## ⚙️ GitHub Analytics
-<p align="center">
- <a href="https://github.com/AliM-01">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliM-01&layout=compact&theme=material-palenight&langs_count=12" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AliM-01&show_icons=true&include_all_commits=true&theme=material-palenight" />
-  
- </a>
-  <a>
-  <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliM-01&theme=material-palenight" alt="Ali's Github Steak" />
-  </a>
-</p>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliM-01&layout=compact&theme=material-palenight&langs_count=12" />
