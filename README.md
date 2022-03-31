@@ -46,7 +46,6 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AliM-01&show_icons=true&include_all_commits=true&theme=material-palenight" />
   
  </a>
-   <img height="100%" wdith="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=AliM-01&layout=compact" alt="Ali's WakaTime" />
   <a>
   <img height="100%" wdith="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliM-01&theme=material-palenight" alt="Ali's Github Steak" />
   </a>
