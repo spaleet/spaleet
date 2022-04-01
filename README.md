@@ -11,35 +11,29 @@
 
 <hr />
 
-**Currently working with:**
+**Working with:**
 
-<a href="#"><img width="48px" heigth="48px" src="icons/net.png" /></a>
-<a href="#"><img width="48px" heigth="48px" src="icons/ts.png" /></a>
-<a href="#"><img width="48px" heigth="48px" src="icons/js.png" /></a>
-<a href="#"><img width="48px" heigth="48px" src="icons/csharp.png" /></a>
-<a href="#"><img width="48px" heigth="48px" src="icons/angular.png" /></a>
-<a href="#"><img width="48px" heigth="48px" src="icons/rxjs.png" /></a>
-<a href="#"><img width="48px" heigth="48px" src="icons/docker.png" /></a>
-<a href="#"><img width="48px" heigth="48px" src="icons/mongodv.png" /></a>
-<a href="#"><img width="48px" heigth="48px" src="icons/redis.png" /></a>
-<a href="#"><img width="48px" heigth="48px" src="icons/html.png" /></a>
-<a href="#"><img width="48px" heigth="48px" src="icons/css.png" /></a>
-<a href="#"><img width="48px" heigth="48px" src="icons/vscode.png" /></a>
+![Csharp](https://img.shields.io/badge/-Csharp-blueviolet?style=flat-square&logo=csharp&logoColor=ffffff)
+![NET](https://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=dotnet)
+![Docker](https://img.shields.io/badge/-docker-2299EF?style=flat-square&logo=docker&logoColor=ffffff)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Typescript](https://img.shields.io/npm/types/typescript?color=007acc&label=%20%20%20&logo=typescript&logoColor=ffffff&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E8009C?style=flat-square&logo=GraphQL&logoColor=ffffff)
+![Blazor](https://img.shields.io/badge/-Blazor-5B2C90?style=flat-square&logo=blazor&logoColor=ffffff)
+![MongoDb](https://img.shields.io/badge/-Mongodb-3E9430?style=flat-square&logo=mongodb&logoColor=ffffff)
+![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-FED670?style=flat-square&logo=microsoft-sql-server&logoColor=000000)
+![Redis](https://img.shields.io/badge/-Redis-D93024?style=flat-square&logo=redis&logoColor=ffffff)
+![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
+![RxJs](https://img.shields.io/badge/-RxJs-A20977?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![VisualStudio](https://img.shields.io/badge/-Visual%20Studio-blueviolet?style=flat-square&logo=visualstudio)
+![Jquery](https://img.shields.io/badge/-Jquery-0365A9?style=flat-square&logo=Jquery)
 
-<br />
-
-**Learning:**
-
-
-<a href="#"><img width="48px" heigth="48px" src="icons/graph_ql.png" /></a>
-<a href="#"><img width="48px" heigth="48px" src="icons/blazor.png" /></a>
-
-<br />
-
-**Previously worked with:**
-
-
-<a href="#"><img width="48px" heigth="48px" src="icons/jquery.png" /></a>
-<a href="#"><img width="48px" heigth="48px" src="icons/mssql.png" /></a>
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliM-01&layout=compact&theme=material-palenight&langs_count=12" />
