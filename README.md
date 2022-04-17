@@ -30,6 +30,7 @@
 ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-680FE8?style=flat-square&logo=Bootstrap&logoColor=ffffff)
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
+![Eslint](https://img.shields.io/badge/-ESLint-blueviolet?style=flat-square&logo=eslint)
 ![RxJs](https://img.shields.io/badge/-RxJs-BF008B?style=flat-square)
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
