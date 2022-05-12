@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/-docker-2299EF?style=flat-square&logo=docker&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular" />
   <img src="https://img.shields.io/npm/types/typescript?color=007acc&label=%20%20%20&logo=typescript&logoColor=ffffff&style=flat-square" />
+  <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-GraphQL-E8009C?style=flat-square&logo=GraphQL&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Blazor-5B2C90?style=flat-square&logo=blazor&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Mongodb-3E9430?style=flat-square&logo=mongodb&logoColor=ffffff" />
