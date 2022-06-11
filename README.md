@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=dotnet" />
   <img src="https://img.shields.io/badge/-docker-2299EF?style=flat-square&logo=docker&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular" />
+  <img src="https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react" />
   <img src="https://img.shields.io/npm/types/typescript?color=007acc&label=%20%20%20&logo=typescript&logoColor=ffffff&style=flat-square" />
   <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-GraphQL-E8009C?style=flat-square&logo=GraphQL&logoColor=ffffff" />
