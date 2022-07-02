@@ -18,12 +18,13 @@
 
 <div style="display: flex;align-items: center;justify-content: center;">
   <img src="https://img.shields.io/badge/-csharp-blueviolet?style=flat-square&logo=csharp&logoColor=ffffff" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=dotnet" />
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/npm/types/typescript?color=007acc&label=%20%20%20&logo=typescript&logoColor=ffffff&style=flat-square" />
   <img src="https://img.shields.io/badge/-docker-2299EF?style=flat-square&logo=docker&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular" />
-  <img src="https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/-Blazor-5B2C90?style=flat-square&logo=blazor&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-Bootstrap-680FE8?style=flat-square&logo=Bootstrap&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=ffffff" />
@@ -38,9 +39,12 @@
 <a href="https://github.com/AliM-01">
   <img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliM-01&theme=gotham&hide_border=true&line_height=40&line_width=45" alt="Ali's Github Steak" />
   
-#### 🔗 Links
+### 🔗 Where to find me
 
 <div style="display: flex;align-items: center;justify-content: center;">
+    <a href="https://github.com/AliM-01" target="_blank">
+        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+    </a>
     <a href="https://stackoverflow.com/users/14353529" target="_blank">
         <img src="https://img.shields.io/badge/-STACKOVERFLOW-important?style=for-the-badge&logo=stackoverflow&logoColor=white" />
     </a>
