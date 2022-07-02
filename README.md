@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Redis-D93024?style=flat-square&logo=redis&logoColor=ffffff" />
 </p>
   
-## 🔗 Stats
+## ✅ Stats
 <div>
   <a href="https://github.com/AliM-01">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliM-01&show_icons=true&line_height=40&line_width=45&count_private=true&include_all_commits=true&theme=gotham&cache_seconds=1800&hide_border=true" alt="Mohit's github stats"/>
