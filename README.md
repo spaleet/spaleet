@@ -14,7 +14,7 @@
   <br/> 
 </div>
 
-### 🔭 Tools of Trade
+### 🔭 Skills
 
 <div style="display: flex;align-items: center;justify-content: center;">
   <img src="https://img.shields.io/badge/-csharp-blueviolet?style=flat-square&logo=csharp&logoColor=ffffff" />
@@ -37,3 +37,11 @@
   
 <a href="https://github.com/AliM-01">
   <img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliM-01&theme=gotham&hide_border=true&line_height=40&line_width=45" alt="Ali's Github Steak" />
+  
+#### 🔗 Links
+
+<div style="display: flex;align-items: center;justify-content: center;">
+    <a href="https://stackoverflow.com/users/14353529" target="_blank">
+        <img src="https://img.shields.io/badge/-STACKOVERFLOW-important?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+    </a>
+</div>
