@@ -32,11 +32,11 @@
   
 ## 🔗 Links
 
-<div style="display: flex;align-items: center;justify-content: center;">
+<p>
     <a href="https://github.com/AliM-01" target="_blank">
-        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+        <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height="30" />
     </a>
     <a href="https://stackoverflow.com/users/14353529" target="_blank">
-        <img src="https://img.shields.io/badge/-STACKOVERFLOW-important?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/-STACKOVERFLOW-important?style=for-the-badge&logo=stackoverflow&logoColor=white" height="30" />
     </a>
-</div>
+</p>
