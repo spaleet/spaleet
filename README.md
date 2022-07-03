@@ -1,5 +1,11 @@
-## 🔭 Skills
 
+## ✅ Stats
+<a href="https://github.com/AliM-01">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliM-01&show_icons=true&theme=gotham&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliM-01&theme=gotham&layout=compact&hide_border=true" />
+</a>
+
+## 🔭 Skills
 <p>
   <img src="https://img.shields.io/badge/-csharp-blueviolet?style=flat-square&logo=csharp&logoColor=ffffff" />
   <img src="https://img.shields.io/badge/-.NET-blueviolet?style=flat-square&logo=dotnet" />
@@ -18,18 +24,7 @@
   <img src="https://img.shields.io/badge/-Sql%20Server-FED670?style=flat-square&logo=microsoft-sql-server&logoColor=000000" />
   <img src="https://img.shields.io/badge/-Redis-D93024?style=flat-square&logo=redis&logoColor=ffffff" />
 </p>
-  
-## ✅ Stats
-<div>
-  <a href="https://github.com/AliM-01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AliM-01&show_icons=true&line_height=40&line_width=45&count_private=true&include_all_commits=true&theme=gotham&cache_seconds=1800&hide_border=true" alt="Mohit's github stats"/>
-  </a>
-     
-  <a href="https://github.com/AliM-01">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliM-01&theme=gotham&hide_border=true&line_width=30" />
-  </a>
-</div>
-  
+
 ## 🔗 Links
 
 <p>
