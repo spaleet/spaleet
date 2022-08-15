@@ -35,3 +35,5 @@
         <img src="https://img.shields.io/badge/-STACKOVERFLOW-important?style=for-the-badge&logo=stackoverflow&logoColor=white" height="30" />
     </a>
 </p>
+<img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliM-01&theme=gotham&hide_border=true&line_height=40&line_width=45" alt="Ali's Github Steak" />
+
