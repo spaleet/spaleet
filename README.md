@@ -1,8 +1,8 @@
 
 ## ✅ Stats
 <a href="https://github.com/AliM-01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliM-01&show_icons=true&theme=gotham&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliM-01&theme=gotham&layout=compact&hide_border=true&hide=css,scss" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spaleet&show_icons=true&theme=gotham&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spaleet&theme=gotham&layout=compact&hide_border=true&hide=css,scss" />
 </a>
 
 ## 🔭 Skills
@@ -28,12 +28,12 @@
 ## 🔗 Links
 
 <p>
-    <a href="https://github.com/AliM-01" target="_blank">
+    <a href="https://github.com/spaleet" target="_blank">
         <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" height="30" />
     </a>
     <a href="https://stackoverflow.com/users/14353529" target="_blank">
         <img src="https://img.shields.io/badge/-STACKOVERFLOW-important?style=for-the-badge&logo=stackoverflow&logoColor=white" height="30" />
     </a>
 </p>
-<img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliM-01&theme=gotham&hide_border=true&line_height=40&line_width=45" alt="Ali's Github Steak" />
+<img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=spaleet&theme=gotham&hide_border=true&line_height=40&line_width=45" alt="Ali's Github Steak" />
 
